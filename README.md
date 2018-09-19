@@ -18,6 +18,7 @@ Lewis is a Ruby Developer for Cookpad in Bristol. He has a passion for Ruby, hel
 
 You can find some of his previous talks here:
 - [Redis 101 at Great Western Rails](https://speakerdeck.com/lewispb/redis-101)
+- [Cookpad and Kafka](https://speakerdeck.com/lewispb/cookpad-and-kafka)
 
 ## 👥 Social Channels
 
