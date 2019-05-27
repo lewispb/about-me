@@ -12,11 +12,12 @@
 
 ## 👨‍💻 Biography
 
-Lewis is a Ruby Developer for Cookpad in Bristol. He has a passion for Ruby, helping out at conferences and meetups. He recently joined Cookpad from FreeAgent and has 7 years experience writing software professionally. His pastimes include watching documentaries about planes, trains and car crashes, making cocktails and playing PC games.
+Lewis is a Ruby Developer for Cookpad in Bristol. He has a passion for Ruby, helping out at conferences and meetups. He recently joined Cookpad from FreeAgent and has 7 years experience writing software professionally. His pastimes include watching documentaries, brewing beer and learning!
 
 ### 🎤 Talks
 
 You can find some of his previous talks here:
+- [Rubymap at RailsConf 2019](https://youtu.be/AI5wmnzzBqc?t=2532)
 - [Redis 101 at Great Western Rails](https://speakerdeck.com/lewispb/redis-101)
 - [Cookpad and Kafka](https://speakerdeck.com/lewispb/cookpad-and-kafka)
 
