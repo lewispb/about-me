@@ -1,7 +1,7 @@
 <div class="info">
   <h1 class="name" align="center"><span>Lewis Buckley</span></h1>
   <p class="meta-data" align="center">
-    ✨ Ruby Programmer at <a target="_blank" rel="noopener noreferrer" href="https://www.37sigals.com">37signals</a> ✨<br/>
+    ✨ Ruby Programmer at <a target="_blank" rel="noopener noreferrer" href="https://www.37signals.com">37signals</a> ✨<br/>
   </p>
   <p class="info-footer" align="center">
     💻🍹✈️
